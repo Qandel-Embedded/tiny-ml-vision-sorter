@@ -2,7 +2,7 @@
   <h1>📸 TinyML Vision Sorter</h1>
   <p>Offline object classifier running on a $4 Raspberry Pi Pico and Arducam.</p>
 
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://paypal.me/ahmedqandel)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://www.paypal.com/donate/?business=freelacning8518@gmail.com)
 </div>
 
 ## Overview
